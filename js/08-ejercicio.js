@@ -1,0 +1,2 @@
+let numero1 = parseInt(prompt("ingrese un numero")), moduloDivision = numero1 % 2;
+if (moduloDivision === 0){document.writeln(numero1 + " es divisible en 2.")}else {document.writeln(numero1 + " no es divisible en 2.")}
