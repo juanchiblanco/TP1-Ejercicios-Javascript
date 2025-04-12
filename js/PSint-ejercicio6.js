@@ -1,0 +1,2 @@
+let temperaturaF = parseFloat(prompt("ingrese la temperatura en grados Fahrenheit")), temperaturaC = (5/9) * (temperaturaF - 32)
+document.writeln("Su temperatura en grados Celsius es: " + temperaturaC)
