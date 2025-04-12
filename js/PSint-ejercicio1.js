@@ -1,0 +1,2 @@
+let numero1 = parseInt(prompt("ingrese el primer numero")), numero2  = parseInt(prompt("ingrese el segundo numero")), resultado = numero1 + numero2
+document.writeln("El resultado de la suma es: " + (numero1 + numero2))
