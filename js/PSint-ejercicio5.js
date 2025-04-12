@@ -1,0 +1,2 @@
+let precio = parseFloat(prompt("ingrese el precio del producto")), conDescuento = precio * 0.85
+if(conDescuento > 1000){document.writeln("El precio final con descuento es: " + conDescuento)} else {document.writeln("No incluye descuento, el precio es: " + precio)}
